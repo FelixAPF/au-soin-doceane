@@ -9,7 +9,7 @@ import { RouterOutlet } from '@angular/router';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = "Au Petit Soin D'Océanne";
+  title = "Les Sophistiquées";
 
   scrollToSection(id: string): void {
     const element = document.getElementById(id);
